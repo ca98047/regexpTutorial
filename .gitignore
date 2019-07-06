@@ -29,3 +29,4 @@ target/classes/META-INF/maven/org.springframework.samples/regexpTutorial/pom.pro
 target/classes/META-INF/MANIFEST.MF
 .settings/org.eclipse.jdt.core.prefs
 .classpath
+*.properties
