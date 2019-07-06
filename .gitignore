@@ -24,3 +24,7 @@ target/
 .settings/
 .classpath
 .project
+target/classes/META-INF/maven/org.springframework.samples/regexpTutorial/pom.properties
+target/classes/META-INF/MANIFEST.MF
+.settings/org.eclipse.jdt.core.prefs
+.classpath
